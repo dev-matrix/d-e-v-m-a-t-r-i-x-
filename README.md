@@ -11,6 +11,7 @@
 • افتح ترمنال وحط 
 
 git clone https://github.com/Hu-ck-er/d-e-v-m-a-t-r-i-x-
+
 • انتر وراه حط •
 
 cd d-e-v-m-a-t-r-i-x
