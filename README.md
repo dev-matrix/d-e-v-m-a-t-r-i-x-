@@ -1,20 +1,19 @@
-• TshAkE Source  
+• matrix Source  
 
 • BEST SOURCE ON TELEGRAM
 
 ֆ • • • • • • • • • • • • • ֆ
 
-• لتنصيب سورس تشاكي ع تيجي الجديد ع التوكن 
+• لتنصيب سورس ماتركس ع تيجي الجديد ع التوكن 
 
 ֆ • • • • • • • • • • • • • ֆ
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
-
+git clone https://github.com/Hu-ck-er/d-e-v-m-a-t-r-i-x-
 • انتر وراه حط •
 
-cd TshAkEapi
+cd d-e-v-m-a-t-r-i-x
 
 • وانتر وراه حط •
 
@@ -28,7 +27,7 @@ chmod +x install.sh
 
 • او نصب بكود واحد 
 
-git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/Hu-ck-er/d-e-v-m-a-t-r-i-x- && cd TshAkEapi && chmod +x install.sh && ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
@@ -36,7 +35,7 @@ git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x in
 
 • من يخلص التنصيب تفتح ملف 
 
-TSHAKE.sh
+matrix.sh
 
 • وتحط التوكن بهل طريقه 
 
@@ -58,7 +57,7 @@ redis-server
 
 • وراه تسوي رن من ملف 
 
-TSHAKE-auto.sh
+matrix-auto.sh
 
 ֆ • • • • • • • • • • • • • ֆ
 
@@ -72,14 +71,14 @@ redis-server
 
 • بعده اسوي رن من ملف 
 
-TSHAKE-auto.sh
+matrix-auto.sh
 
 ֆ • • • • • • • • • • • • • ֆ
 
-• ومبروك نصبت سورس تشاكي 
+• ومبروك نصبت سورس ماتركس 
 
 • تيجي الجديد ع التوكن 💛 •
 
-ᶜʰ @TshAkETEAM
+ᶜʰ @sl00ls
 
-ᵇᵒᵗ @TSHELPBOT
+ᵇᵒᵗ @MustafaF16
